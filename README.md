@@ -19,7 +19,7 @@
    ```
 3. Add an alias to your `~/.cshrc` or `~/.tcshrc`:
    ```bash
-   alias vpm '/disk/home/thomas/.vim/vpm.csh'
+   alias vpm '~/.vim/vpm.csh'
    ```
 
 ## Command Reference
